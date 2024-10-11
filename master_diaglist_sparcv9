@@ -23,7 +23,7 @@
 // master diag list for princeton
 ////////////////////////////////////////////////////////////////////////////////
 
-<tile1 sys=manycore -x_tiles=1 -y_tiles=1>
+<tile1 sys=manycore -x_tiles=1 -y_tiles=1 -ost1>
 <cmp_default name=default>
 
 <all_tile1_passing>
